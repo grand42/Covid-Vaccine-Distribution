@@ -17,14 +17,14 @@
 ## Visualization:
 
 * Home Page:
-[Image](Images/Home_Page.png)
+![Image](Images/Home_Page.png)
 
 * COVID-19 Word Vaccination Progress:
-[Image](Images/COVID-19_Vaccine_Distribution_Worldwide.png)
+![Image](Images/COVID-19_Vaccine_Distribution_Worldwide.png)
 
 * Michigan State Vaccination Progress:
-[Image](Images/Michigan_Vaccine_Rollout.png)
+![Image](Images/Michigan_Vaccine_Rollout.png)
 
 * U.S. States Vaccination Progress:
-[Image](Images/Heatmap.png)
+![Image](Images/Heatmap.png)
 
